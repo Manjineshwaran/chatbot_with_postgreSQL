@@ -12,7 +12,7 @@ Conversational Memory: Retains chat context using LangChain’s ConversationBuff
 Groq AI Integration: Uses ChatGroq for intelligent responses.
 Validated User Input: Checks for valid email, phone, and country.
 Database Operations: PostgreSQL setup with CREATE TABLE, INSERT, and SELECT queries.
-#work flow
+# work flow
 - Creating tables
 - Ask user to put goals and weightage
 - Add personal information like mail, country, phone for generic chat agent (optional)
