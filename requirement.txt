@@ -1,0 +1,4 @@
+psycopg2
+python-dotenv
+langchain
+langchain_groq
